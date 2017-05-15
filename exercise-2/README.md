@@ -6,7 +6,8 @@ In the space below, make a three column table of the current courses you are tak
 
 See `complete` branch for answers.
 
-Course | Course title | Instructor
-**EST101**  |Estadística 1 | Lucho V
-**EST102**  |Estadística 2 | Jose F
-**EST103**  |Estadistica 3 |Loretta G
+|Course | Course title | Instructor |
+|------------|-------------------|-----------------|
+|**EST101**  |_Estadística 1_ | Lucho V |
+|**EST102**  |_Estadística 2_ | Jose F      |
+|**EST103**  |_Estadistica 3_ |Loretta G |
